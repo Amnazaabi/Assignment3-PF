@@ -9,7 +9,7 @@ from client_interface import ClientInterface
 from guest_interface import GuestInterface
 from supplier_interface import SupplierInterface
 from venue_interface import VenueInterface
-
+ 
 # Create the MainApplication class
 class MainApplication:
     # Constructor method to initialize the MainApplication object
